@@ -1,0 +1,106 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+
+
+td{
+  width: 12vw;
+  height: 5vh;
+  border: 2px solid rgb(241, 58, 58);
+  background-color: rgb(255, 210, 222);
+  border-radius: 8%;
+
+}
+button{
+  width: 9vw;
+  height: 6vh;
+  border-radius: 7%;
+  margin-left: 1%;
+  background-color: gray;
+
+}
+table{
+  border: 2px solid black;
+  width: 50%;
+  margin-left: 25%;
+  background-color:black
+}
+
+#data1{
+  margin-left: 40%;
+  margin-top: 2%;
+  width: 9vw;
+  height: 5vh;
+  border-radius: 8%;
+  border-color: red;
+  text-align: center;
+  background-color: rgb(79, 211, 255);
+  color: black;
+}
+#data{
+  margin-left: 1%;
+  margin-top: 2%;
+  width: 9vw;
+  height: 5vh;
+  margin-bottom: 5%;
+  border-radius: 5%;
+  border-color:red;
+  text-align: center;
+  background-color: rgb(79, 211, 225);
+
+}
+#data2,#data3,#data4{
+  margin-left: 0.2%;
+  margin-top: 2%;
+  width: 9vw;
+  height: 5vh;
+  border-radius: 5%;
+  border-color:red;
+  text-align: center;
+  background-color: rgb(79, 211, 255);
+
+}
+
+
+
+
+
+
+
